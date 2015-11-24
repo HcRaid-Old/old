@@ -1,0 +1,9 @@
+name: HcBB
+version: 1.0
+main: com.hamgooof.bedrockbase.core.BBPlugin
+author: hamgooof
+description: Bedrock Base plugin
+depend: [AsyncWorldEdit]
+commands:
+ bb:
+  description: Bedrock command

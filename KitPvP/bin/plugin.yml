@@ -1,8 +1,0 @@
-name: KitPvP
-main: org.KitPvP.Main
-version: 1.0
-
-commands:
-   class:
-      description: KitPvP plugin
-      usage: /class <Ranger|Fighter|Offense|Medic|Warrior|Acrobat>

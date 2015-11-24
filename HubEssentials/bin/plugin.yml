@@ -1,7 +1,0 @@
-name: HubEssentials
-version: 1.0
-main: com.addongaming.hub.HubEssentials
-author: hamgooof
-load: POSTWORLD
-softdepend: [HcEssentials]
-description: Essentials plugin for the Hub server.

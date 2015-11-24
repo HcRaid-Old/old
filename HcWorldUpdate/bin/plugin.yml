@@ -1,7 +1,0 @@
-name: HcWorldUpdate
-version: 0.3
-main: core.hcworldupdate.Main
-author: hamgooof
-description: Essentials plugin for AddOnGaming servers.
-commands:
- worldupdate:

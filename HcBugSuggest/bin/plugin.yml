@@ -1,9 +1,0 @@
-name: HcBugSuggest
-main: core.hcbs.Main
-version: 0.1
-author: AddonGaming
-commands:
-   bug:
-      description: Report a bug
-   suggest:
-      description: Suggest an idea

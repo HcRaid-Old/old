@@ -1,9 +1,0 @@
-name: HcWorldManager
-version: 0.6
-main: core.hwh.Main
-author: hamgooof
-description: Loads/unloads worlds as well as creating new and loading on startup.
-load: startup
-commands:
- worldman:
-  description: Main command.

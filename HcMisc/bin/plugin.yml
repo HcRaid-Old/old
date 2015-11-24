@@ -1,9 +1,0 @@
-name: HcMisc
-version: 1.0.2
-main: com.addongaming.misc.Main
-author: hamgooof
-load: POSTWORLD
-description: Misc code
-commands:
- pancake:
-  description: AWSUM SAUCE
