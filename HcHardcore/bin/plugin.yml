@@ -1,0 +1,6 @@
+name: HcMisc
+version: 1.0.2
+main: com.addongaming.hc.Main
+author: hamgooof
+load: POSTWORLD
+description: Hardcore Stuff

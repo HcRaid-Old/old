@@ -1,0 +1,8 @@
+name: HcForceChunk
+version: 0.01
+main: core.force.Main
+author: hamgooof
+description: Forces chunk loading for first time.
+commands:
+   genworldchunks:
+      description: Generates the worlds chunks

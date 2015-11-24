@@ -1,0 +1,5 @@
+name: Overkill
+version: 1.0.4
+main: com.addongaming.overkill.Overkill
+author: hamgooof
+load: POSTWORLD

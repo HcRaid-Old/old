@@ -1,0 +1,24 @@
+name: RetroEssentials
+version: 0.6
+main: core.essentials.Main
+author: hamgooof
+description: Main governing plugin for the RetroPvP server.
+load: startup
+commands:
+ retrobypass:
+  description: Check price of an item in the shop
+  permission: retro.bypass
+ bedrockswap:
+  description: Gives 1 item for changing spawners
+ enderpearldrop:
+  description: Gives 1 item for dropping spawners
+ bob:
+  description: Main command for the BoB minigame.
+ spleef:
+  description: Main command for the spleef minigame.
+permissions:
+ retro.bypass:
+  description: Gives bypass access to the retro plugin.
+  default: op
+
+

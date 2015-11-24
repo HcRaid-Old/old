@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Jake/Documents/Testing/Minecraft/spigot.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jake/Documents/Testing/Minecraft/Spigot/craftbukkit-1.7.2-R0.1-20131214.232726-37.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jake/Documents/Testing/Minecraft/plugins/Vault.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

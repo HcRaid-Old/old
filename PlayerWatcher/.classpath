@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="C:/Users/Jake/Desktop/MC mdos/bukkit-1.4.6-R0.4-20130105.234759-4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jake/Desktop/MC mdos/craftbukkit-1.4.-R1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jake/Desktop/MC mdos/SQLibrary.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jake/Desktop/MC mdos/Vault.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,10 @@
+name: HubSystem
+version: 0.1a
+main: com.hamgooof.hubsystem.core.Main
+author: hamgooof
+load: POSTWORLD
+depend: [WorldGuard]
+description: Plugin to manage hub/minigame teleportation
+commands:
+ mgman:
+  description: Commands for hub/minigame management

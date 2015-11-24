@@ -1,0 +1,5 @@
+name: CombatTagPush
+version: 0.1
+main: com.addongaming.combattag.Push
+author: hamgooof
+description: Pushes players out side spawn if in combat.

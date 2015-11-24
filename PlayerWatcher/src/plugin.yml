@@ -1,0 +1,5 @@
+name: PlayerWatcher
+version: 0.01
+description: Monitors players
+author: hamgooof
+main: me.hamgooof.core.main

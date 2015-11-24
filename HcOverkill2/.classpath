@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Minecraft Jars/bukkit-1.7.2-R0.4-20140212.070507-1.jar"/>
+	<classpathentry kind="lib" path="C:/Minecraft Jars/bukkitnew.jar"/>
+	<classpathentry kind="lib" path="C:/Minecraft Jars/ChatLib.jar"/>
+	<classpathentry kind="lib" path="C:/Minecraft Jars/Citizens.jar"/>
+	<classpathentry kind="lib" path="C:/Minecraft Jars/CitizensApi.jar"/>
+	<classpathentry kind="lib" path="C:/Minecraft Jars/CoreProtect_2.0.8.jar"/>
+	<classpathentry kind="lib" path="C:/Minecraft Jars/craftbukkit-1.7.2-R0.3-20131221.081113-1.jar"/>
+	<classpathentry kind="lib" path="C:/Minecraft Jars/craftbukkitnew.jar"/>
+	<classpathentry kind="lib" path="C:/Minecraft Jars/Essentials.jar"/>
+	<classpathentry kind="lib" path="C:/Minecraft Jars/HyperConomy.jar"/>
+	<classpathentry kind="lib" path="C:/Minecraft Jars/lombok.jar"/>
+	<classpathentry kind="lib" path="C:/Minecraft Jars/ProtocolLib.jar"/>
+	<classpathentry kind="lib" path="C:/Minecraft Jars/Sentry.jar"/>
+	<classpathentry kind="lib" path="C:/Minecraft Jars/spigot.jar"/>
+	<classpathentry kind="lib" path="C:/Minecraft Jars/spigot-api.jar"/>
+	<classpathentry kind="lib" path="C:/Minecraft Jars/spigotnew.jar"/>
+	<classpathentry kind="lib" path="C:/Minecraft Jars/TagAPI.jar"/>
+	<classpathentry kind="lib" path="C:/Minecraft Jars/Vault.jar"/>
+	<classpathentry kind="lib" path="C:/Minecraft Jars/Votifier.jar"/>
+	<classpathentry kind="lib" path="C:/Minecraft Jars/WGRegionEvents.jar"/>
+	<classpathentry kind="lib" path="C:/Minecraft Jars/WorldEdit.jar"/>
+	<classpathentry kind="lib" path="C:/Minecraft Jars/WorldGuard.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/HcEssentials"/>
+	<classpathentry kind="lib" path="C:/Users/Jake/Documents/Testing/Minecraft/plugins/NoCheatPlus.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

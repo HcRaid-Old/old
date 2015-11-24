@@ -1,0 +1,96 @@
+name: HcEssentials
+version: 1.0.5
+main: com.addongaming.hcessentials.HcEssentials
+author: hamgooof
+load: POSTWORLD
+depend: [CoreProtect]
+description: Essentials plugin for AddOnGaming servers.
+commands:
+ dtoggle:
+  description: Toggles damage notification on/off
+ deathmsg:
+  description: Toggles the type of deathmessages on the server
+ raid:
+  description: Allows the user to set temporary raiding homes.
+ team:
+  description: Command to execute commands for team.
+  aliases: [f, faction, factions]
+ near:
+  description: Command to look for nearby players
+  aliases: [enear]
+ chatfilter:
+  description: Disables the chat filtering system
+ chatdeath:
+  description: Disables the death messages
+ chattoggle:
+  description: Toggles on/off entire public chat
+ save:
+  description: Saves the world
+ antilag:
+  description: Cleans up some mess
+ tprandom:
+  description: Teleports player to random co-ordinates
+ faq:
+  description: Provides answers to frequently asked questions
+ worldman:
+  description: Allows staff to set up extra worlds
+ combatlog:
+  description: Tells you how long left in combat, as well as who you are in combat with
+  aliases: [combattag, combattime]
+ name:
+  description: Allows you to name your items
+ book:
+  description: Allows you to put book enchantments on an item
+ bounty:
+  description: Allows you to add bounties to players.
+ cp:
+  description: Allows you to get the current care package locations.
+ specialkill:
+  description: Special mob spawnings.
+ stats:
+  description: Gets your player stats.
+  aliases: [mcmmo]
+ dtc:
+  description: Command and stuff for DTCs
+ rank:
+  description: Acquire you rank package
+  usage: /rank
+ 1v1:
+  description: Issue a 1v1 on a player
+  usage: /1v1 <player>
+ saveredeem:
+  description: Let's you set the reward for a permissions group
+  usage: |
+   /<command> group boxid money exp
+ redeem:
+  description: Lets you claim your items
+  usage: |
+   /<command>
+ loadredeem:
+  description: Checks a players items
+  usage: |
+   /<command> name
+ delredeem:
+  description: Deletes all of a players redeem info
+  usage: |
+   /<command> name
+ delredeemkit:
+   description: Deletes all of a players redeem info
+   usage: |
+    /<command> name
+ checkredeem:
+  description: Checks a players redeem info
+  usage: |
+    /<command> name
+ hcessentials:
+  description: Gives information on HcEssentials
+ headtrack:
+  description: Sets chest for head tracking
+ bug:
+  description: Report a bug in-game
+ suggest:
+  description: Make a suggestion in-game
+ ping:
+  description: Pings the server and gives a response.
+ rvb:
+  description: Red versus blue

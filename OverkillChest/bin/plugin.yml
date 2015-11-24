@@ -1,0 +1,7 @@
+name: HCBank
+main: core.start.Main
+version: 1.0
+author: AddonGaming
+commands:
+   setbankchest:
+      description: Face a chest and use the command to set the bank chest.

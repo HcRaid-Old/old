@@ -1,0 +1,9 @@
+name: HcInvenSaver
+version: 1.0
+main: com.addongaming.hcinvensaver.Main
+author: hamgooof
+description: BLA
+commands:
+ crapsorter:
+  description: Toggles damage notification on/off
+

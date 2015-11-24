@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Minecraft Jars 1.6.4/bukkit-1.6.4-R2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Minecraft Jars 1.6.4/CoreProtect_2.0.8.jar"/>
+	<classpathentry kind="lib" path="C:/Minecraft Jars 1.6.4/craftbukkit-1.6.4-R2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Minecraft Jars 1.6.4/TagAPI.jar"/>
+	<classpathentry kind="lib" path="C:/Minecraft Jars 1.6.4/Vault.jar"/>
+	<classpathentry kind="lib" path="C:/Minecraft Jars 1.6.4/Votifier.jar"/>
+	<classpathentry kind="lib" path="C:/Minecraft Jars 1.6.4/WGRegionEvents.jar"/>
+	<classpathentry kind="lib" path="C:/Minecraft Jars 1.6.4/WorldEdit.jar"/>
+	<classpathentry kind="lib" path="C:/Minecraft Jars 1.6.4/WorldGuard.jar"/>
+	<classpathentry kind="lib" path="C:/Minecraft Jars 1.6.4/GriefPrevention-282.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/HcEssentials"/>
+	<classpathentry kind="lib" path="C:/Users/Jake/Downloads/CombatTag.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jake/Documents/Testing/Minecraft/plugins/HcEssentials.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jake/Documents/Testing/Minecraft/plugins/WorldBorder.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jake/Documents/Testing/Minecraft/plugins/WorldEdit.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

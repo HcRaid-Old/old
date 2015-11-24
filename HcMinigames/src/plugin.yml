@@ -1,0 +1,37 @@
+name: HcMinigames
+version: 1.0.4
+main: com.addongaming.minigames.core.HcMinigames
+author: hamgooof
+load: POSTWORLD
+depend: [HcEssentials,Citizens]
+description: Core plugin for HcMinigames
+commands:
+ arenaman:
+  description: Arena management command
+  aliases: [am,aman,arenam]
+ hubman:
+  description: Hub management command
+  aliases: [hm,hubm,hman]
+ kitman:
+  description: Hub management command
+  aliases: [km,kman,kitm]
+ ks:
+  description: Killstreak management command
+ exit:
+  description: Exits out the current minigame/lobby
+  aliases: [quit,qm,hub,spawn,leave]
+ wm:
+  description: Commands for the weapon manager
+  aliases: [weaponman,wman,weaponm]
+ cm:
+  description: Commands for the weapon manager
+  aliases: [chestman,cman,chestm]
+ kit:
+  description: Opens the kit interface in-game
+  aliases: [kits,ekit,ekits]
+ downvote:
+  description: Votes down the last arena played
+ upvote:
+  description: Upvotes the last arena played
+ pet:
+  description: Allows you to access your pet commands

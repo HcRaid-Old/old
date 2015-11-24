@@ -1,0 +1,38 @@
+name: HcModTools
+version: 0.4
+main: hcmodtools.core.Main
+author: hamgooof
+description: Plugin to assist Hc Staff.
+commands:
+ vanish:
+  description: Toggles vanish on/off
+ xray:
+  description: Xray statistics
+ smute:
+  description: Safe muting
+ commandspy:
+  description: 
+ socialspy:
+  description: 
+ hg:
+  description: Adds/removes players to/from hackergrunt.
+ watch:
+  description: Monitors a player logging in/out
+ chatclear:
+  description: Clears the entire chat
+  aliases: [cclear]
+ chatsilence:
+  description: Silences chat
+  aliases: [csilence]
+ monitor:
+  description: Adds a player to monitor
+ raidproof:
+  description: Raid proof request & information
+ playercheck:
+  description: Checks a players info/equipment
+ ac:
+  description: Checks a players alts
+ staff:
+  description: Shows staff related commands
+ chatmon:
+  description: Toggles chat monitor

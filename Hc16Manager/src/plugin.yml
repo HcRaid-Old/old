@@ -1,0 +1,5 @@
+name: Hc16Manager
+version: 0.1
+main: core.hc16.Main
+author: hamgooof
+description: Restricts 1.6.* activity 

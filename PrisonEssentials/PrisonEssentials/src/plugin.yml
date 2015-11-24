@@ -1,0 +1,29 @@
+name: PrisonEssentials
+version: a.0.5
+main: com.addongaming.prison.core.Main
+author: hamgooof
+load: POSTWORLD
+depend: [Citizens]
+description: Essential plugin to manage the HcPrison server
+commands:
+ hcprison:
+  description: Gives information on HcEssentials
+  aliases: [prison]
+ balance:
+  description: Gets balance
+  aliases: [balance,bal,ebal,ebalance,money,emoney]
+ skill:
+  description: Gets information for your current class' skills.
+  aliases: [skills]
+ id:
+  description: Gets balance
+  aliases: [passport]
+ pay:
+  description: Sends money to another player
+  aliases: [epay]
+ spawn:
+  description: Allows players to teleport to spawn
+  aliases: [espawn]
+ warp:
+  description: Allows players to teleport to spawn
+  aliases: [ewarp]
