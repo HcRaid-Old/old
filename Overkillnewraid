@@ -1,0 +1,209 @@
+id	subdata	buyprice	sellprice	name
+1	0	1	0.2	Stone
+2	0	3	1	Grass
+3	0	1	0.2	Dirt
+4	0	1	0.2	Cobblestone
+5	0	2	0.5	Wood
+5	1	2	0.5	Spruce Wood
+5	2	2	0.5	Birch Wood
+5	3	2	0.5	Jungle Wood
+6	0	10	1	Sapling
+6	1	10	1	Spruce Sapling
+6	2	10	1	Birch Sapling
+6	3	10	1	Jungle Sapling
+8	0	250	25	Water
+12	0	3	0.75	Sand
+13	0	3	0.75	Gravel
+14	0	40	-1	Gold Ore
+15	0	25	-1	Iron Ore
+16	0	10	-1	Coal Ore
+17	0	10	-1	Log
+17	0	25	7	Log
+17	0	25	7	Log
+17	0	25	7	Log
+19	0	300	100	Sponge
+20	0	5	2	Glass
+22	0	250	50	Lapis Lazuli Block
+23	0	10	5	Dispenser
+24	0	5	2	Sandstone
+25	0	20	5	Note Block
+29	0	100	25	Sticky Piston
+30	0	5	1	Web
+33	0	90	20	Piston
+35	0	10	1	White Wool
+35	1	10	1	Orange Wool
+35	2	10	1	Magenta Wool
+35	3	10	1	Light Blue Wool
+35	4	10	1	Yellow Wool
+35	5	10	1	Light Green Wool
+35	6	10	1	Pink Wool
+35	7	10	1	Dark Gray Wool
+35	8	10	1	Light Gray Wool
+35	9	10	1	Cyan Wool
+35	10	10	1	Purple Wool
+35	11	10	1	Blue Wool
+35	12	10	1	Brown Wool
+35	13	10	1	Dark Green Wool
+35	14	10	1	Red Wool
+35	15	10	1	Black Wool
+37	0	3	0.3	Yellow Flower
+37	0	3	0.3	Yellow Flower
+39	0	3	0.3	Brown Mushroom
+40	0	3	0.3	Red Mushroom
+41	0	-1	250	Gold Block
+42	0	400	50	Iron Block
+45	0	25	5	Brick Block
+46	0	250	35	TNT
+47	0	6000	-1	Bookshelf
+48	0	40	5	Moss Stone
+49	0	200	20	Obsidian
+50	0	2	0.2	Torch
+53	0	10	0.5	Wooden Stairs
+54	0	10	2	Chest
+58	0	10	2	Crafting Table
+61	0	10	2	Furnace
+65	0	6	1.5	Ladder
+69	0	-1	0.5	Lever
+70	0	3	0.5	Stone Pressure Plate
+72	0	2	0.2	Wooden Pressure Plate
+76	0	15	5	Redstone Torch
+77	0	5	1	Stone Button
+79	0	50	2	Ice
+80	0	25	1	SnowBlock
+81	0	50	4	Cactus
+82	0	10	2	Clay Block
+84	0	100	10	Jukebox
+85	0	10	2	Fence
+86	0	30	5	Pumpkin
+87	0	1	0.1	Netherrack
+88	0	5	0.3	Soulsand
+89	0	25	2.5	Glowstone
+91	0	25	2.5	Jack OLantern
+96	0	3	1	Trapdoor
+97	0	-1	10	Silverfish Stone
+97	1	-1	10	Silverfish Cobblestone
+97	2	-1	10	Silverfish Stone Brick
+98	0	25	3	Stone Brick
+98	1	40	10	Mossy Stone Brick
+98	2	40	10	Cracked Stone Brick
+101	0	10	3	Iron Bars
+102	0	10	-1	Glass Pane
+103	0	30	5	Melon
+106	0	2	0.1	Vine
+107	0	10	2	Fence Gate
+110	0	30	2	Mycelium
+111	0	10	1	Lilly Pad
+112	0	30	1	Nether Brick
+113	0	30	1	Nether Brick Fence
+114	0	30	1	Nether Brick Stairs
+116	0	150000	100	Enchantment Table
+121	0	10	1	End Stone
+123	0	50	10	Redstone Lamp ON
+128	0	10	3	Sandstone Stairs
+133	0	300	20	Emerald Block
+139	0	10	1	Cobblestone Wall
+145	0	-1	-1	Anvil
+151	0	50	5	Daylight Detector
+158	0	25	5	Dropper
+256	0	80	30	Iron Shovel
+257	0	180	70	Iron Pickaxe
+258	0	180	70	Iron Axe
+259	0	50	5	Flint And Steel
+260	0	5	1	Apple
+261	0	50	10	Bow
+262	0	3	0.2	Arrow
+263	0	5	1	Coal
+263	1	5	1	Charcoal
+264	0	100	30	Diamond
+265	0	50	20	Iron Ingot
+266	0	100	25	Gold Ingot
+267	0	120	30	Iron Sword
+268	0	20	3	Wooden Sword
+269	0	20	3	Wooden Shovel
+270	0	20	3	Wooden Pickaxe
+271	0	20	3	Wooden Axe
+272	0	40	3	Stone Sword
+273	0	20	2	Stone Shovel
+274	0	40	3	Stone Pickaxe
+275	0	40	3	Stone Axe
+276	0	500	100	Diamond Sword
+277	0	150	50	Diamond Shovel
+279	0	750	100	Diamond Axe
+280	0	2	0.2	Stick
+281	0	5	1	Bowl
+283	0	120	30	Gold Sword
+284	0	130	40	Gold Shovel
+285	0	290	80	Gold Pickaxe
+286	0	290	80	Gold Axe
+287	0	5	1	String
+288	0	5	1	Feather
+289	0	-1	5	Gunpowder
+295	0	5	0.1	Seeds
+296	0	15	0.1	Wheat
+297	0	10	5	Bread
+298	0	40	10	Leather Helmet
+299	0	120	50	Leather Chestplate
+300	0	90	30	Leather Leggings
+301	0	30	10	Leather Boots
+306	0	200	30	Iron Helmet
+307	0	230	40	Iron Chestplate
+308	0	150	15	Iron Leggings
+309	0	200	30	Iron Boots
+310	0	350	120	Diamond Helmet
+311	0	550	200	Diamond Chestplate
+312	0	450	150	Diamond Leggings
+313	0	200	50	Diamond Boots
+318	0	5	1	Flint
+320	0	10	2	Cooked Porkchop
+321	0	30	3	Painting
+323	0	10	2	Sign
+324	0	10	2	Wooden Door
+325	0	40	10	Bucket
+326	0	60	15	Water Bucket
+326	0	80	20	Water Bucket
+328	0	20	4	Minecart
+329	0	100	15	Saddle
+330	0	100	15	Iron Door
+331	0	15	5	Redstone
+332	0	-1	-1	Snowball
+333	0	-1	10	Boat
+334	0	-1	1	Leather
+335	0	75	7.5	Milk Bucket
+338	0	150	2	Sugar Cane
+340	0	25	2	Book
+341	0	75	5	Slimeball
+344	0	75	2	Egg
+345	0	250	10	Compass
+346	0	125	10	Fishing Rod
+347	0	125	10	Clock
+348	0	-1	3	Lightstone Dust
+351	3	10	4	Cocoa Bean
+351	15	30	1	Bone Meal
+352	0	90	4	Bone
+353	0	-1	0.8	Sugar
+355	0	10	1	Bed
+356	0	50	5	Redstone Repeater
+358	0	15	2	Map
+359	0	60	15	Shears
+360	0	15	3	Melon Slice
+361	0	75	4	Pumpkin Seeds
+362	0	75	4	Melon Seeds
+364	0	10	2	Steak
+366	0	10	2	Cooked Chicken
+367	0	4	2	Rotten Flesh
+368	0	1500	5	Ender Pearl
+369	0	125	5	Blaze Rod
+370	0	125	5	Ghast Tear
+371	0	100	1.5	Gold Nugget
+372	0	250	1.5	Nether Wart
+375	0	10	1	Spider Eye
+376	0	75	1	Fermented Spider Eye
+377	0	-1	5	Blaze Powder
+378	0	125	5	Magma Cream
+379	0	150	5	Brewing Stand
+380	0	100	5	Cauldron
+382	0	100	5	Glistering Melon
+388	0	50	20	Emerald
+390	0	50	2	Flower Pot
+391	0	10	2	Carrot
+392	0	125	3	Potato
